@@ -1,5 +1,7 @@
-# **This is not full version of game - full version of game is currently in process (private)**
+# *This is not full version of game - full version of game is currently in process (private)*
 
+
+# **blackjack**
 ## **Наберите значение руки как можно ближе к 25, не превышая это число. Если значение превышает 25, вы проигрываете раунд**
 
 ### 1 point = 1 USD$
