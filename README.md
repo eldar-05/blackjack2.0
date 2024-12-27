@@ -1,6 +1,3 @@
-# *This is not full version of game - full version of game is currently in process (private)*
-
-
 # **blackjack**
 ## **Наберите значение руки как можно ближе к 25, не превышая это число. Если значение превышает 25, вы проигрываете раунд**
 
@@ -17,3 +14,5 @@
 - Если сумма вашей руки превышает 25, вы проигрываете раунд
 
 ## **Игра завершается, если ваш баланс опускается ниже 10 поинтов или если вы решите выйти.**
+
+# *This is not full version of game - full version of game is currently in process (private)*
